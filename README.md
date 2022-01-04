@@ -1,1 +1,1 @@
-Thank you for checking my work.  I am currently working on a voice recognition(VR) project using javascript. At the moment, I am busy testing few available VR APIs to make this project a success. You can message me to collaborate with me on this project.
+Thank you for checking my work.  I am currently working on a voice recognition(VR) project using javascript. At the moment, I am busy testing few available VR APIs to make this project a success.Feel free to inbox me if you will  collaborate or know more about the project.
