@@ -1,1 +1,13 @@
-Thank you for checking my work.  I am currently working on a voice recognition(VR) project using javascript. At the moment, I am busy testing few available VR APIs to make this project a success.Feel free to inbox me if you willing to  collaborate or know more about the project.
+**version 1.0.0**
+
+
+
+## Contributors 
+
+- Mbusiseni K Mbhele <mbusiseni.mbhele@gmail.com>
+
+Demo code 
+
+
+## Licence & copyright
+@ Mbusiseni K Mbhele , Code25 
